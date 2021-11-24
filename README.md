@@ -1,7 +1,7 @@
 ### Hi, I'm João Vitor Constâncio 👋
 
 
-- 🔭 I’m currently working on medical college Faceres.
+- 🔭 I’m currently working on Vivo Telecommunications.
 - 🌱 I’m currently learning Dart.
 - 🤔 I’m looking for help with agile methodology.
 - 💬 Ask me about Flutter.
