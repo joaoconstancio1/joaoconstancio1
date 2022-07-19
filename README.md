@@ -2,8 +2,8 @@
 
 
 - 🔭 I’m currently working on iBlue Consulting.
-- 🌱 I’m currently learning Dart/Flutter.
-- 🤔 I’m looking for help with agile methodology.
+- 🌱 I’m currently working with Dart/Flutter.
+- 🤔 I’m looking for help with IT management.
 - 💬 Ask me about Flutter.
 - 😄 Pronouns: he/his
 
