@@ -1,7 +1,6 @@
 ### Hi, I'm João Vitor Constâncio 👋
 
 
-- 🔭 I’m currently working on iBlue Consulting.
 - 🌱 I’m currently working with Dart/Flutter.
 - 🤔 I’m looking for help with IT management.
 - 💬 Ask me about Flutter.
