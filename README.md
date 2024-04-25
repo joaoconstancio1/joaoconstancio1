@@ -1,37 +1,17 @@
-### Hi, I'm João Vitor Constâncio 👋
+# 💫 About Me:
+🔭 I’m currently working as a Sr. Mobile Engineer, where I use Flutter to build and enhance mobile applications.<br>👯 I’m looking to collaborate on projects that use technology to make a positive impact, especially those involving mobile development.<br>🤝 I’m looking for help with learning more about different areas of mobile development and expanding my skill set.<br>🌱 I’m currently learning more about Flutter, Clean Architecture, and Automated Testing to improve my mobile development skills.<br>💬 Ask me about my experience in mobile development, particularly with Flutter, or any of the projects I’ve worked on.
 
 
-- 🌱 I’m currently working with Dart/Flutter.
-- 🤔 I’m looking for help with IT management.
-- 💬 Ask me about Flutter.
-- 😄 Pronouns: he/his
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/joaoconstancio1) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/joaoconstancio1) 
 
-<div align="start">
-  <a href="https://github.com/joaoconstancio1">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaoconstancio1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoconstancio1&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-  
+# 💻 Tech Stack:
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=joaoconstancio1&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=joaoconstancio1&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=joaoconstancio1&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-  
- 
-<div style="display: inline_block"><br>
-<img align="center" alt="Joao-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
-<img align="center" alt="Joao-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg">
-<img align="center" alt="Joao-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-<img align="center" alt="Joao-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-<img align="center" alt="Joao-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg">
-<img align="center" alt="Joao-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg">
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=joaoconstancio1&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-
-</div>
-  
-##
-<div > 
-<a href="https://instagram.com/joaoconstancio1" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/joaoconstancio1" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-
-
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
